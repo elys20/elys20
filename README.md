@@ -1,5 +1,5 @@
 ## Olá!! Eu sou a Elys Mendes 👋  <div align="center">
-<img src="https://user-images.githubusercontent.com/97187182/160310065-7d84ebff-f609-46f7-8a80-2ebccc877d0a.png" width="150px" />
+<img src="https://user-images.githubusercontent.com/97187182/160310065-7d84ebff-f609-46f7-8a80-2ebccc877d0a.png" width="170px" />
   </div>
   
 
