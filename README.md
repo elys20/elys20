@@ -6,10 +6,9 @@
 
 
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Hoje trabalho com front-end, back-end, testes, Análise Funcional
 - 🌱 Estudando Typescript, React e Angular
-- 🤔 Buscando oportunidade na área de desenvolvimento
-- 💬 Contate-me no e-mail: elysmrt@gmail.com
+- 💬 Contate-me no e-mail: elysmrt@gmail.com ou https://www.linkedin.com/in/elysmendes/
 - 😄 Pronouns:ela/dela
 
 
