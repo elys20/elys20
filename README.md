@@ -6,8 +6,8 @@
 
 
 
-- 🔭 Hoje trabalho com Front-end, Testes Manuais, Testes Automatizados, Análise Funcional.
-- 🌱 Estudando  React,  Angular, Testes Automatizados.
+- 🔭 Analista de Testes, desenvolvedora apaixonada pela área de testes....
+- 🌱 Estudando  e aprimorando os meus conhecimentos em automoção de testes.
 - 💬 Contate-me no e-mail: elysmrt@gmail.com ou https://www.linkedin.com/in/elysmendes/
 - 😄 Pronouns:ela/dela
 
